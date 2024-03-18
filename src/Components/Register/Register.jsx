@@ -74,7 +74,7 @@ const Register = () => {
               Already have an account?{" "}
               <a
                 href="/login"
-                className="text-red-500 hover:text-yellow-500 hover:underline"
+                className="text-green-500 hover:text-yellow-500 hover:underline"
                 title="Sign In"
               >
                 Sign in here
@@ -145,14 +145,14 @@ const Register = () => {
                   I accept the{" "}
                   <a
                     href="#"
-                    className="text-red-500 hover:text-yellow-500 hover:underline"
+                    className="text-green-500 hover:text-yellow-500 hover:underline"
                   >
                     terms
                   </a>{" "}
                   and{" "}
                   <a
                     href="#"
-                    className="text-red-500 hover:text-yellow-500 hover:underline"
+                    className="text-green-500 hover:text-yellow-500 hover:underline"
                   >
                     privacy policy
                   </a>

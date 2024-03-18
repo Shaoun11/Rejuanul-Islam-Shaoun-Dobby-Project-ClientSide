@@ -62,7 +62,7 @@ const Login = () => {
               Image Uploader
             </a>
             <h2 className="text-center text-2xl font-bold tracking-wide text-gray-800">
-              Sign Up
+              Log in!
             </h2>
             <p className="text-center text-sm text-gray-600 mt-2">
               You don't have account?{" "}
